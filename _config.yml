@@ -3,7 +3,7 @@ title: Vinícius Galvão
 email: contato@viniciusgalvao.com.br
 url: https://viniciusgalvao.github.io
 description: "Desenvolvedor Fullstack Recife"
-skills: "Web Developer - Mobile Developer"
+skills: "Web Developer - Mobile Developer - Tech Lover"
 meta_author: Vinícius Galvão
 
 # Google webmaster tools
@@ -38,12 +38,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: http://github.com/viniciusgalvao
+  - title: github
+    url: http://github.com/viniciusgalvao
   - title: twitter
     url: https://twitter.com/viniigalvao
   - title: facebook
     url: https://www.facebook.com/viniigalvao
-  - title: github
-    url: http://github.com/viniciusgalvao
+  - title: instagram
+    url: https://www.instagram.com/viniigalvao/
 
 # Postal address (add as many lines as necessary)
 address:
