@@ -75,6 +75,9 @@ hr.star-primary:after {
     background-color: #fff;
 }
 
+#about hr.user:after{content: "\f007";}
+#contact hr.envelope:after {content: "\f0e0"; }
+
 .img-centered {
     margin: 0 auto;
 }
