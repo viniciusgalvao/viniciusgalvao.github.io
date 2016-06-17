@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2016-06-01
-img: e-Track.jpeg
+img: e-Track.jpg
 alt: image-alt
 project-date: Junho 2016
 client: Educandus
