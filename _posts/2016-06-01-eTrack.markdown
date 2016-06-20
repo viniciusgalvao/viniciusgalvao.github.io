@@ -8,6 +8,6 @@ project-date: Junho 2016
 client: Educandus
 client-url: http://www.educandus.com.br
 category: Mobile Development
-description: Projeto foi desenvolvido para uso exclusivo dos funcionários da Educandus. O aplicativo encontra-se publicado na <a href="https://play.google.com/store/apps/details?id=br.com.educandus.eduapp">Play Store</a>.
+description:
 
 ---
