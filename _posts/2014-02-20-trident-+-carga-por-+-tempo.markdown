@@ -8,5 +8,5 @@ project-date: Fevereiro 2014
 client: Aurora.ag
 client-url: http://www.aurora.ag
 category: Mobile Development
-description: Projeto foi desenvolvido para uma ação da Trident no Camarote Oficial do Galo da Madrugada. Onde os usuários que quisessem dar uma carga de até 30m em seus smartphones, teriam que participar dessa brincadeira que funcionava da seguinte maneira, Em 8 segundos regressivos o usuário tem que tocar o máximo de vezes possível no <b>botão +</b> para a cor de cada marcador ir subindo de acordo com a quantidade de toques e determinar quanto tempo de carga ganharia no seu smartphone.
+description: Projeto foi desenvolvido para uma ação da Trident no Camarote Oficial do Galo da Madrugada, onde os usuários que quisessem dar uma carga de até 30m em seus smartphones, teriam que participar da brincadeira. Funcionava da seguinte maneira: em 8 segundos regressivos, o usuário tinha que tocar o máximo possível de vezes no botão "+" para a cor de cada marcador ir subindo e determinar quanto tempo de carga ganharia em seu smartphone.
 ---
