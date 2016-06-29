@@ -8,5 +8,5 @@ project-date: Junho 2016
 client: Educandus
 client-url: http://www.educandus.com.br
 category: Mobile Development
-description: Fui responsável pela reestruturação do projeto e pelo desenvolvimento de novas funcionalidades como&#58; agendamento de visitas, mapeamento das visitas realizadas, checkin na criação da visita e pela sincronização dos dados com a API. Também fui responsável pelo desenvolvimento da API em php utilizando o codeigniter com a biblioteca <a href="https://github.com/philsturgeon/codeigniter-restclient" target="_blank">codeigniter-restclient</a> e pela estruturação do banco de dados no PostgreSQL.
+description: Fui responsável pela reestruturação do projeto e pelo desenvolvimento de novas funcionalidades como&#58; agendamento de visitas, mapeamento das visitas realizadas, checkin na criação da visita e pela sincronização dos dados com a API. Também fui responsável pelo desenvolvimento da API em php utilizando o codeigniter com a biblioteca <a href="https://github.com/chriskacerguis/codeigniter-restserver" target="_blank">codeigniter-restserver</a> e pela estruturação do banco de dados no PostgreSQL.
 ---
