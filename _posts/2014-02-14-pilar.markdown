@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2014-02-14
+img: pilar.jpg
+alt: image-alt
+project-date: Fevereiro 2014
+client: Aurora.ag
+client-url: http://www.aurora.ag
+category: Web Development
+description:
+---
