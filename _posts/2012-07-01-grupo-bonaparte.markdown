@@ -1,10 +1,10 @@
 ---
 layout: default
-modal-id: 6
-date: 2013-06-01
-img: gsm.jpg
+modal-id: 8
+date: 2012-07-01
+img: grpb.jpg
 alt: image-alt
-project-date: Junho 2011
+project-date: Julho 2012
 client: DA-DPA
 client-url: http://www.da-dpa.com.br
 category: Web Development
