@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 10
+date: 2015-03-10
+img: wfv-2015.jpg
+alt: image-alt
+project-date: Março 2015
+client: Valda
+client-url: http://webfestvalda.com.br
+category: Web Development
+description:
+---
