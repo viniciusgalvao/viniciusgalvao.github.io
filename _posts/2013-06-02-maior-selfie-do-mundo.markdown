@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 14
-date: 2013-03-01
+date: 2013-06-02
 img: maior-selfie.jpg
 alt: image-alt
-project-date: Março 2013
+project-date: Junho 2013
 client: Aurora.AG
 client-url: http://aurora.ag
 category: Web Development
